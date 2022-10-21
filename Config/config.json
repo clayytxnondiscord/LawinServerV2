@@ -1,9 +1,9 @@
 {
-    "moderators": ["discordId"],
+    "moderators": ["1006639477223071815"],
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTAzMTQyNzIxMzA1ODM5NjE4MQ.GH3Cby.bu5JY0ktNzIAyDC3PQ-eQdU4nN-17qkpEO5drA"
     },
     "mongodb": {
-        "database": "mongodb://127.0.0.1/lawindb"
+        "database": "mongodb+srv://clayytxn:133144AB@cluster0.jpdrpyn.mongodb.net/lawinserver?retryWrites=true&w=majority"
     }
 }
